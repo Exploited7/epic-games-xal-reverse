@@ -1,2 +1,2 @@
 # epicgames-account-creator
-Release when this repo reach 50 stars . 
+Release when this repo get a good amount of stars probably :  50 stars . 
