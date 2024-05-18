@@ -1,2 +1,2 @@
 # epicgames-account-creator
-epic games account creator ! , requests based . 
+Release when this repo reach 50 stars . 
