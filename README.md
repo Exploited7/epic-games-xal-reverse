@@ -1,4 +1,4 @@
-# epicgames-account-creator
+# Epic Games Xal 
 
-
-dm me on discord if u are interested to buy the xal encryption / the tool . 
+xal is shitty not even hard to reverse it that's why i posted , literally my dog can reverse it . 
+about fingerprint shits ( gen and stuff )  you can check @emrovsky tool . or if you need it better and fully unflagged xal so just make a fp collector . 
