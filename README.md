@@ -7,3 +7,6 @@ i think all important stuff is deobfuscated in the file that i uploaded
 
 # Destroyed Xal preview : 
 [destroyed.json](https://github.com/Exploited7/epic-games-xal-reverse/files/15382206/destroyed.json)
+
+# Need something important?
+@justmanooo on discord
