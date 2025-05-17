@@ -9,4 +9,4 @@ i think all important stuff is deobfuscated in the file that i uploaded
 [destroyed.json](https://github.com/Exploited7/epic-games-xal-reverse/files/15382206/destroyed.json)
 
 # Need something important?
-@justmanooo on discord
+contact me on [discord](https://contact-mano.vercel.app/)
