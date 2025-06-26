@@ -1,6 +1,5 @@
 # Xal - Reverse
-xal is shitty not even hard to reverse it that's why i posted , literally my dog can reverse it . if you need it better and fully unflagged xal so just make a fp collector . 
-
+if you are looking for fn checks dm me
 
 # talon_sdk.js deobfuscated 
 i think all important stuff is deobfuscated in the file that i uploaded
